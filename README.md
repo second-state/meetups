@@ -1,14 +1,13 @@
 # meetups about WebAssembly
 
-This repo is to share slides and recorded videos from meetups about WebAssembly, including online and offlines.
+This repo is to share slides and recorded videos from meetups about WebAssembly, including online and offlines. Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
 
-## Microservices with WebAssembly
+## Microservices with WebAssembly on 11/09
 
 > This offline event is sponsored by [Lark](https://www.larksuite.com/) and organized by Second State.
 
-* Time: 6 PM - 9 PM 11/09 2022
 
-| Topic                                                         | Speaker                    | Slides | Recorded videos |
+| Topics                                                         | Speakers                    | Slides | Recorded videos |
 |---------------------------------------------------------------|----------------------------|--------|-----------------|
 | Secure and lightweight microservices in Wasm                  | Michael Yuan               |        |                 |
 | Tooling for microservices: Docker + Wasm technical preview    | Michael Irwin              |        |                 |
