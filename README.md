@@ -4,7 +4,7 @@ This repo is to share slides and recorded videos from meetups about WebAssembly,
 
 ## Microservices with WebAssembly on 11/09
 
-> This offline event is sponsored by [Lark](https://www.larksuite.com/) and organized by Second State.
+> This offline event is sponsored by [Lark](https://www.larksuite.com/) and organized by Second State with the help of ByteDance.
 
 
 | Topics                                                         | Speakers                    | Slides | Recorded videos |
