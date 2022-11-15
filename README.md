@@ -9,8 +9,8 @@ This repo is to share slides and recorded videos from meetups about WebAssembly,
 
 | Topics                                                         | Speakers                    | Slides | Recorded videos |
 |---------------------------------------------------------------|----------------------------|--------|-----------------|
-| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/lightweight-Microservices-in-WebAssembly.pdf)      |                 |
-| Tooling for microservices: Docker + Wasm technical preview    | Michael Irwin              |        |                 |
+| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/lightweight-Microservices-in-WebAssembly.pdf)      |   missing              |
+| Tooling for microservices: Docker + Wasm technical preview    | Michael Irwin              |   [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/tooling-for-microservices-docker-wasm.pdf)     |                 |
 | How the Dapr API helps you build better microservices in Wasm | Yaron Schneider            |   [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/dapr_wasm.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
 | WASM in ByteDance                                             | Wilson Wang & Varun Gupta, |    [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/webassembly_in_bytedance.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
 
