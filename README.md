@@ -1,6 +1,6 @@
-# Meetups about WebAssembly
+# Meetups on WebAssembly
 
-This repo is to share slides and recorded videos from meetups about WebAssembly, including online and offline. Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
+This repo is to share slides and recorded videos from meetups on WebAssembly, including online and in person. Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
 
 ## Microservices with WebAssembly on 11/09
 
