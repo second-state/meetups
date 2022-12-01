@@ -1,12 +1,12 @@
 # Meetups on WebAssembly
 
-This repo is to share slides and recorded videos from meetups on WebAssembly, including online and in person. 
+This repo shares slides and recorded videos from meetups on WebAssembly, including online and in person. 
 
 Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions, features and updates of the WasmEdge runtime.
 
-## Microservices with WebAssembly on 11/09
+## Microservices with WebAssembly on 11/09/2022
 
-> This offline event is sponsored by [Lark](https://www.larksuite.com/) and organized by Second State with the help of ByteDance.
+> This meetup has got 200+ in-person and online attendees, sponsored by [Lark](https://www.larksuite.com/) and organized by Second State with the help of ByteDance.
 
 
 | Topics                                                         | Speakers                    | Slides | Recorded videos |
