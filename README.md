@@ -2,7 +2,7 @@
 
 This repo is to share slides and recorded videos from meetups on WebAssembly, including online and in person. Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
 
-Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions features and updates.
+Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions features and updates of the WasmEdge runtime.
 
 ## Microservices with WebAssembly on 11/09
 
