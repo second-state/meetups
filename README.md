@@ -2,7 +2,7 @@
 
 This repo is to share slides and recorded videos from meetups on WebAssembly, including online and in person. 
 
-Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions features and updates of the WasmEdge runtime.
+Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions, features and updates of the WasmEdge runtime.
 
 ## Microservices with WebAssembly on 11/09
 
@@ -16,6 +16,6 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 | How the Dapr API helps you build better microservices in Wasm | Yaron Schneider            |   [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/dapr_wasm.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
 | Wasm in ByteDance                                             | Wilson Wang & Varun Gupta, |    [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/webassembly_in_bytedance.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
 
-Besides the meetups, the maintainers of WasmEdge are going to hold a monthly Community Meeting to discuss the status of the WasmEdge Project on the first Tuesday of each month. Everyone is welcome to join. See details [here](https://docs.google.com/document/d/1iFlVl7R97Lze4RDykzElJGDjjWYDlkI8Rhf8g4dQ5Rk/edit?usp=sharing).
+Besides the meetups, the maintainers of WasmEdge host a monthly Community Meeting sharing the status of the WasmEdge Project the first Tuesday each month. Everyone is welcome to join. Register [here](https://docs.google.com/document/d/1iFlVl7R97Lze4RDykzElJGDjjWYDlkI8Rhf8g4dQ5Rk/edit?usp=sharing).
 
-Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
+Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts on future meetups.
