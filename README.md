@@ -1,6 +1,6 @@
 # Meetups on WebAssembly
 
-This repo is to share slides and recorded videos from meetups on WebAssembly, including online and in person. Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
+This repo is to share slides and recorded videos from meetups on WebAssembly, including online and in person. 
 
 Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions features and updates of the WasmEdge runtime.
 
@@ -17,3 +17,5 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 | Wasm in ByteDance                                             | Wilson Wang & Varun Gupta, |    [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/webassembly_in_bytedance.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
 
 Besides the meetups, the maintainers of WasmEdge are going to hold a monthly Community Meeting to discuss the status of the WasmEdge Project on the first Tuesday of each month. Everyone is welcome to join. See details [here](https://docs.google.com/document/d/1iFlVl7R97Lze4RDykzElJGDjjWYDlkI8Rhf8g4dQ5Rk/edit?usp=sharing).
+
+Follow our [Eventbrite page](https://www.eventbrite.com/o/second-state-55396277393) or [Twitter](https://twitter.com/secondstateinc) to receive alerts about next meetup.
