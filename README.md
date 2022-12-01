@@ -11,7 +11,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 
 | Topics                                                         | Speakers                    | Slides | Recorded videos |
 |---------------------------------------------------------------|----------------------------|--------|-----------------|
-| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/lightweight-Microservices-in-WebAssembly.pdf)      |   missing              |
+| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/lightweight-Microservices-in-WebAssembly.pdf)      |   [Watch here](https://www.youtube.com/watch?v=Kg5z5A5wH0A)              |
 | Tooling for microservices: Docker + Wasm technical preview    | Michael Irwin              |   [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/tooling-for-microservices-docker-wasm.pdf)     |     [Watch here](https://youtu.be/jlaD_4xHzX4)            | 
 | How the Dapr API helps you build better microservices in Wasm | Yaron Schneider            |   [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/dapr_wasm.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
 | Wasm in ByteDance                                             | Wilson Wang & Varun Gupta, |    [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/webassembly_in_bytedance.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
