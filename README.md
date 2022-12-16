@@ -24,7 +24,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 |---------------------------------------------------------------|----------------------------|--------|-----------------|
 | What's New in Docker Desktop 4.15              | Ajeet Raina               |  [Download here](/singapore-meetup-1215/new-in-docker-4.15.pdf)      |   [Watch here](https://youtu.be/gDZGBc0DNBo)              |
 | Docker and Software Composition Analysis   | Ding Sun             |   [Download here](/singapore-meetup-1215/docker-and-sca.pdf)     |     [Watch here](https://youtu.be/kfjz0kvRuoI)            | 
-| Docker + Wasm Empower Microservices | Michael Yuan          |   [Download here](https://github.com/second-state/meetups/blob/main/mtv-meetup-1109/dapr_wasm.pdf)     |       [Watch here](https://youtu.be/pWRBUTkUx_A)          |
+| Docker + Wasm Empower Microservices | Michael Yuan          |   [Download here](/singapore-meetup-1215/docker-wasm-empowering-microservices.pdf)     |       [Watch here](https://youtu.be/pWRBUTkUx_A)          |
 
 
 Besides the meetups, the maintainers of WasmEdge host an online Community Meeting sharing the status of the WasmEdge Project the first Tuesday each month. Everyone is welcome to join. Register [here](https://docs.google.com/document/d/1iFlVl7R97Lze4RDykzElJGDjjWYDlkI8Rhf8g4dQ5Rk/edit?usp=sharing).
