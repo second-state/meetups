@@ -11,7 +11,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 
 | Topics                                                         | Speakers                    | Slides | Recorded videos |
 |---------------------------------------------------------------|----------------------------|--------|-----------------|
-| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/1.%20Infrastructure%20for%20LLMs-Michael%20Yuan.pdf)      |   [Watch here](https://www.youtube.com/watch?v=Kg5z5A5wH0A)              |
+| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/1.%20Infrastructure%20for%20LLMs-Michael%20Yuan.pdf)      |   [Bilibili](http://b23.tv/DAqM7mh)              |
 | Tooling for microservices: Docker + Wasm technical preview    | Wang Fangchi             |   [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/2%20FATE-LLM%20-%20Wang%20Fangchi.pdf)     |     [Watch here](https://youtu.be/jlaD_4xHzX4)            | 
 | How the Dapr API helps you build better microservices in Wasm | Li Chen                   |   [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/3.%20Milvus-LI-Chen.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
 | How the Dapr API helps you build better microservices in Wasm | Zhang Zhi            |   [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/4.%20Sensetime%20PPQ%20Zhang%20Zhi.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
