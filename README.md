@@ -1,10 +1,25 @@
-# Meetups on WebAssembly
+# Meetups 
 
-This repo shares slides and recorded videos from meetups on WebAssembly, including online and in person. 
+This repo shares slides and recorded videos from meetups WasmEdge organized, including online and in person. 
 
 Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions, features and updates of the WasmEdge runtime.
 
-## Microservices with WebAssembly on 11/09/2022
+## Open Source AI Infra Meetup Beijing on 07/08/2023
+
+> This meetup has got 200+ in-person and online attendees, sponsored by [Lark](https://www.larksuite.com/) and organized by Second State with the help of ByteDance.
+
+
+| Topics                                                         | Speakers                    | Slides | Recorded videos |
+|---------------------------------------------------------------|----------------------------|--------|-----------------|
+| Secure and lightweight microservices in Wasm                  | Michael Yuan               |  [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/1.%20Infrastructure%20for%20LLMs-Michael%20Yuan.pdf)      |   [Watch here](https://www.youtube.com/watch?v=Kg5z5A5wH0A)              |
+| Tooling for microservices: Docker + Wasm technical preview    | Wang Fangchi             |   [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/2%20FATE-LLM%20-%20Wang%20Fangchi.pdf)     |     [Watch here](https://youtu.be/jlaD_4xHzX4)            | 
+| How the Dapr API helps you build better microservices in Wasm | Li Chen                   |   [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/3.%20Milvus-LI-Chen.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
+| How the Dapr API helps you build better microservices in Wasm | Zhang Zhi            |   [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/4.%20Sensetime%20PPQ%20Zhang%20Zhi.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
+| Wasm in ByteDance                                             | Xuan Richeng |    [Download here](/Beijing-Cloud-Native-AI-Meetup-20230708/5.%20Zhiyuan%20Aquila%20LLM%2BFlagEval%20LLM%20Evaluation%20System-20230708.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
+
+
+
+## Microservices with WebAssembly Singapore on 11/09/2022
 
 > This meetup has got 200+ in-person and online attendees, sponsored by [Lark](https://www.larksuite.com/) and organized by Second State with the help of ByteDance.
 
@@ -16,7 +31,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 | How the Dapr API helps you build better microservices in Wasm | Yaron Schneider            |   [Download here](/mtv-meetup-1109/dapr_wasm.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
 | Wasm in ByteDance                                             | Wilson Wang & Varun Gupta, |    [Download here](/mtv-meetup-1109/webassembly_in_bytedance.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
 
-## Docker Day Meetup on 12/15/2022
+## Docker Day Meetup Sillicon Valley on 12/15/2022
 
 > This meetup's venue is sponsored by [Shopee](https://shopee.sg/) and organized by Second State.
 
