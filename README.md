@@ -6,7 +6,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 
 ## Open Source AI Infra Meetup Beijing on 07/08/2023
 
-> This meetup has got 200+ in-person and online attendees, sponsored by CNCF and organized by Second State with the help of ByteDance. Book-gifts from 人民邮电出版社。
+> This meetup has got 200+ in-person and online attendees, sponsored by CNCF and organized by Second State/ WasmEdge. Book-gifts from 人民邮电出版社。
 
 
 | Topics                                                         | Speakers                    | Slides | Recorded videos |
