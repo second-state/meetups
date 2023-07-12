@@ -19,7 +19,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 
 
 
-## Docker Day Meetup Silicon Valley on 12/15/2022
+## Docker Day Meetup Silicon Valley on 11/09/2022
 
 > This meetup has got 200+ in-person and online attendees, sponsored by [Lark](https://www.larksuite.com/) and organized by Second State with the help of ByteDance.
 
@@ -31,7 +31,7 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 | How the Dapr API helps you build better microservices in Wasm | Yaron Schneider            |   [Download here](/mtv-meetup-1109/dapr_wasm.pdf)     |       [Watch here](https://youtu.be/q86Ujo8B_5I)          |
 | Wasm in ByteDance                                             | Wilson Wang & Varun Gupta, |    [Download here](/mtv-meetup-1109/webassembly_in_bytedance.pdf)     |      [Watch here](https://youtu.be/DdDF_UZO5IQ)           |
 
-## Microservices with WebAssembly Singapore on 11/09/2022
+## Microservices with WebAssembly Singapore on 12/15/2022
 
 
 > This meetup's venue is sponsored by [Shopee](https://shopee.sg/) and organized by Second State.
