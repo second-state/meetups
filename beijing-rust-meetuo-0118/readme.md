@@ -1,7 +1,5 @@
 ## Rust Meetup Beijing on 01/18/2025
 
-> This meetup has got 200+ in-person and online attendees, sponsored by CNCF and organized by Second State/ WasmEdge. Book-gifts from 人民邮电出版社。
-
 
 | Topics                                       | Speakers                    | Slides | Recorded videos |
 |--------------------------------------------------|----------------------------|--------|-----------------|
