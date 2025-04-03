@@ -4,6 +4,13 @@ This repo shares slides and recorded videos from meetups WasmEdge organized, inc
 
 Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discussions, features and updates of the WasmEdge runtime.
 
+## MCP and AI Agents Meetup Taipei on 01/04/2025
+
+
+## Rust Meetup Beijing on 11/01/2025
+
+
+
 ## Open Source AI Infra Meetup Beijing on 07/08/2023
 
 > This meetup has got 200+ in-person and online attendees, sponsored by CNCF and organized by Second State/ WasmEdge. Book-gifts from 人民邮电出版社。
