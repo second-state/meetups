@@ -10,7 +10,8 @@ Follow [WasmEdge's GitHub repo](https://github.com/WasmEdge/WasmEdge) for discus
 
 | Topics                                       | Speakers                    | Slides | Recorded videos |
 |--------------------------------------------------|----------------------------|--------|-----------------|
-| Build A Remote MCP Server| Hydai       |  [Download here](/taipei-mcp-meetup-0401/mcpserver.pdf)      |    N/A  |
+| Build A Remote MCP Server| Hydai       |  [Download here](/taipei-mcp-20250401/Build%20a%20remote%20MCP%20server.pdf)      |    [Watch](https://www.youtube.com/watch?v=b4h_yILam3s)  |
+| Build A Remote MCP Server| Michael Yuan      |  [Download here](/taipei-mcp-20250401/taipei-gaia.pdf)      |    [Watch](https://youtu.be/b4h_yILam3s?si=G3qWcZH-vPHod3hZ&t=1389)  |
 
 
 
